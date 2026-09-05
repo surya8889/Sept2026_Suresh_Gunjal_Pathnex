@@ -1,4 +1,4 @@
-Day 04 — Basic CI/CD Concepts with Jenkins & GitLab
+Day 04 code — Basic CI/CD Concepts with Jenkins & GitLab
 
 
 🔹 Jenkinsfile — Basic CI Pipeline

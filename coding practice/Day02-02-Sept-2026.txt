@@ -1,4 +1,4 @@
-Day 02 — Services & Tags
+Day 02 code — Services & Tags
 
 🔹 Ansible — Install & Enable Nginx
 - name: Install and start Nginx on Pathnex
