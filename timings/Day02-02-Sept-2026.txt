@@ -1,0 +1,7 @@
+# Basic networking like IP, ports and ranges
+# UI vs CLI
+# SSH, Jump server(Bastion Host)
+# basic linux commands
+
+## Tomorrow's Task
+# Watch previous videos

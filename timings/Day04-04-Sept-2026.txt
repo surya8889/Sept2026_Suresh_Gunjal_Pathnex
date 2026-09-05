@@ -1,0 +1,7 @@
+# What I did today
+# learned how to Create an AWS EC2 instance using Terraform
+# practiced some basic Linux commands like df, du, find, awk and sed.
+# absolute path and relative path
+
+## Tomorrow's Task
+# Watch previous videos

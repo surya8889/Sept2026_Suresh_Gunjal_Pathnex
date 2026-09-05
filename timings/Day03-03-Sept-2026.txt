@@ -1,0 +1,8 @@
+# File permissions - read, write, execute
+# chmod and chown
+# pwd, ls -tlh, vim, vi, nano, cp, mv, rm
+# softlink and hardlink
+
+## Tomorrow's Task
+# Watch previous videos
+
