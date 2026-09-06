@@ -1,0 +1,15 @@
+# What I did today
+# Git version control
+# learned git workflow
+# All git command which are used in daily work
+# Commands - git pull, git clone, git add file_name, git commit, git push, git init, git fork, 
+# git status, gitignore, git switch, git diff
+# git flow - Untrack - track - stagging - commit - push to cloud
+# 30 mins coding
+# watching movies
+
+
+## Tomorrow's Task
+# I will prepare my introduction part
+# and work on key factors of introduction
+# Watch previous videos
