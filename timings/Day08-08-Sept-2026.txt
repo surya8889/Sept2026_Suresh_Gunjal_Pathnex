@@ -1,0 +1,11 @@
+# What I did today
+# Learned advance AWS services like GCP Organization structure, IAM vs SCP
+# AWS session manager, Elastic IP
+# Different types of DNS record and routing policies
+# CloudTrail vs CloudWatch, Autoscaling, Lambda limits, AWS shield, cloudfront, 
+# WAF, NACL vs Security Groups, stateless vs stateless firewalls
+
+## Tomorrow's Task
+# Watch previous videos
+# 1 hour coding
+
