@@ -1,0 +1,10 @@
+# What I did today
+# Today I learned about AWS cloud and its services
+# Difference between cloud and on-premise
+# AWS Regions and Availability zones
+# Multi-account architecture, Ec2 pricing models, IAM security, networking
+# VPN, VPC, DNS, Security groups, AWS control tower, landing zones
+# ec2, s3, IAM, bucket policy, NAT Gateway, Internet gateway, Vertical scalling, Horizontal scalling
+
+## Tomorrow's Task
+# watch previous videos
