@@ -1,0 +1,14 @@
+# #What I did today
+1)I learned Docker Engine, Docker Images, Containers, Docker Hub, Dockerfile, and Docker Compose.
+2)After some time watched video in 1.5k speed and commented on youtube video.
+3)watched previous batch video and learned about docker.
+4)written code for day 10 and learned and got understand  about the this code from chat gpt.explained each and every line of code.
+5)attended evening session and given introduction of myself and also talked about morning session topic.
+6)finally pushed the code of coding pratice and daily activity of full day over the git hub repository.
+
+
+# #Tomorrow's Task
+1)i will watch videos of  previous batch on AWS services and docker.
+2)i will create file of daily activity and coding pratice.
+3)i will the push code for day 11 over the git hub repository.
+4)i will read the interview quetions of Docker.
