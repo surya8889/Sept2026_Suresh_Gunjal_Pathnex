@@ -1,0 +1,15 @@
+# #What I did today
+1)Learned autoscaler, created EKS,deployed apache, PV/PVC, Kubernetes Ingress, Nginx Ingress, Pod-to-Pod communication, Pod-to-Service communication, Kubernertes Affinity & Anti-Affinity.
+2)After some time watched video in 1.5k speed and commented on youtube video.
+3)watched previous batch video and learned about kubernetes.
+4)performed the kubernetes practical.
+5)written  code and learned and got understand  about the this code from chat gpt.explained each and every line of code
+6)finally pushed the code of coding pratice and daily activity of  full day over the git hub repository.
+
+
+# #Tomorrow's Task
+1)i will watch videos of  previous batch on kubernetes topic.
+2)i will create file of daily activity and coding pratice.
+3)i will attend the evening session.
+4)i will the push code for over the git hub repository.
+5)i will read the interview quetions of kubernetes.
