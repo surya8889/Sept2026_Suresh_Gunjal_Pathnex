@@ -1,0 +1,15 @@
+# #What I did today
+1)watch previous video of kubernetes and created eks cluster.as well as learned to manage cluster application by using services of kubernetes.
+2)After some time watched video in 1.5k speed and commented on youtube video.
+1)watched previous batch video and learned about kubernetes.
+2)performed the kubernetes practical.
+3)written  code and learned and got understand  about the this code from chat gpt.explained each and every line of code
+4)finally pushed the code of coding pratice and daily activity of  full day over the git hub repository.
+
+
+# #Tomorrow's Task
+1)i will watch videos of  previous batch on kubernetes topic.
+2)i will create file of daily activity and coding pratice.
+3)i will attend the evening session.
+4)i will the push code over the git hub repository.
+5)i will read the interview quetions of kubernetes.
