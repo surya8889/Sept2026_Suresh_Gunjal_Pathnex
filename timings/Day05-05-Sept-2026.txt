@@ -1,0 +1,9 @@
+# What I did today
+# Learned about ssh key based authentication
+# User management- user creation, set password
+# Mount and unmount files, rsync, /etc/fstab, unmount
+# Vertical scaling, horizontal scaling, partition, lsblk, grep, egrep, uptime, ifconfig,lscpu, wget, alias, inode
+# Crone job, Processes - zombie, orphan, daemon
+
+## Tomorrow's Task
+# Watch previous videos and revised all
