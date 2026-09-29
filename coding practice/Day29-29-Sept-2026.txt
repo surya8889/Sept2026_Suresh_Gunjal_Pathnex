@@ -1,6 +1,6 @@
 # Day 29 — Final Project Setup and Configuration
 
-## 🔹 Ansible — Complete Deployment Setup
+##  Ansible — Complete Deployment Setup
 
 ```yaml
 - name: Complete Deployment Setup
@@ -10,7 +10,7 @@
     - name: Deploy Nginx, MySQL, and Redis with Docker
       command: docker-compose -f /path/to/docker-compose.yml up -d
       
-🔹 Terraform — Provisioning Multi-Tier Application with VPC and Security
+ Terraform — Provisioning Multi-Tier Application with VPC and Security
 resource "aws_vpc" "pathnex_vpc" {
   cidr_block = "10.0.0.0/16"
 }
@@ -21,7 +21,7 @@ resource "aws_instance" "pathnex_app" {
   subnet_id     = aws_subnet.pathnex_subnet.id
   security_groups = [aws_security_group.pathnex_sg.name]
 }
-🔹 Kubernetes — Deploy Full Application Stack
+ Kubernetes — Deploy Full Application Stack
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -54,7 +54,7 @@ spec:
       targetPort: 80
 
 
-🔹 Docker
+ Docker
 # Docker Security & Cleanup
 FROM nginx
 RUN useradd pathnexuser

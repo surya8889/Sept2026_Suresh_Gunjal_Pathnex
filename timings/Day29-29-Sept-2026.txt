@@ -1,5 +1,5 @@
 # #What I did today
-1)Learned about SRE.
+1)Learned about SRE and its components.
 2)After some time watched video in 1.5k speed and commented on youtube video.
 3)watched previous batch video and learned about monitoring and SSL,TLS certificate.
 4)performed the Kafka..
